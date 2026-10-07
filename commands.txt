@@ -1,4 +1,21 @@
+SIGHTFACE
+Face Recognition Attendance System
+
+QUICK START GUIDE
+=================
+
+Step 1: Activate Virtual Environment
+-------------------------------------
 .\venv\Scripts\activate
+
+Step 2: Start the FastAPI Server
+--------------------------------
 python -m uvicorn main:app --reload
+
+Step 3: Open the Application
+----------------------------
 http://127.0.0.1:8000
-To close terminal press : Ctrl + C
+
+Step 4: Stop the Server
+-----------------------
+Press Ctrl + C in the terminal.
