@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Face recognition data
+face_data/
+face_data_backup/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+commands.txt
+face_data_old/
